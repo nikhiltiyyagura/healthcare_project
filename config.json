@@ -1,0 +1,15 @@
+[
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-a/departments.csv", "targetpath": "EMR/hospital-a/departments.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-a/encounters.csv", "targetpath": "EMR/hospital-a/encounters.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-a/patients.csv", "targetpath": "EMR/hospital-a/patients.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-a/providers.csv", "targetpath": "EMR/hospital-a/providers.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-a/transactions.csv", "targetpath": "EMR/hospital-a/transactions.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-b/departments.csv", "targetpath": "EMR/hospital-a/departments.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-b/encounters.csv", "targetpath": "EMR/hospital-a/encounters.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-b/patients.csv", "targetpath": "EMR/hospital-a/patients.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-b/providers.csv", "targetpath": "EMR/hospital-a/providers.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/EMR/hospital-b/transactions.csv", "targetpath": "EMR/hospital-a/transactions.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/claims/hospital1_claim_data.csv", "targetpath": "claims/hospital1_claim_data.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/claims/hospital2_claim_data.csv", "targetpath": "claims/hospital2_claim_data.csv"},
+	{"sourcepath":"nikhiltiyyagura/healthcare_project/refs/heads/main/datasets/cptcodes/cptcodes.csv", "targetpath": "cptcodes/cptcodes.csv"}
+]
